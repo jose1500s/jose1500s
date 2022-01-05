@@ -4,6 +4,6 @@
 
 📓 I'm currently studying computer systems engineering.
 
-🌱 I’m currently learning technologies like HTML, CSS, Js, Gulp, SASS on my own on udemy.
+🌱 I’m currently learning technologies like HTML, CSS, Js, and other tools.
 
 📫 How to reach me www.linkedin.com/in/jose-antonio-PP
