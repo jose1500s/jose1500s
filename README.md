@@ -1,5 +1,13 @@
 # 💫 About Me:
-I am currently studying computer systems engineering.<br><br>I am looking to improve in web technologies such as: frameworks of CSS, JS, React, Node, etc.<br><br>I'm currently learning web development with React on my own, in college I'm learning to use Laravel.<br><br>I have several personal and university projects that I'm currently working on and will soon be available here on Github!
+Hello!
+
+I'm a computer systems engineering student looking to enhance my skills in web technologies such as CSS frameworks, JavaScript, React, Node, and more.
+
+At the moment, I'm teaching myself web development with React, while also learning to use Laravel in college. I find web development to be a fascinating and ever-changing field, and I'm excited to continue learning and exploring new frameworks and technologies.
+
+I'm currently working on several personal and university projects which I'm excited to share soon on my Github profile.
+
+Thank you for taking the time to check out my profile, and feel free to reach out if you have any questions or just want to chat about web development!
 
 
 ## 🌐 Socials:
